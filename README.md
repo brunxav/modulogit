@@ -1,1 +1,1 @@
-Atualizando READM para envio ao repositório remoto no git.
+Alterando para testar o comando git revert.
