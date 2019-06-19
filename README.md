@@ -1,1 +1,1 @@
-Meu primeiro sistema do git.
+Atualizando READM para envio ao repositório remoto no git.
